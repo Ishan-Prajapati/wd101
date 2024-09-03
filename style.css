@@ -1,0 +1,31 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+.registration{
+    display: grid;
+    justify-content: center;
+}
+form{
+    display: grid;
+    width: 250px;
+    background: beige;
+}
+label{
+    font-size: 20px;
+}
+input{
+    margin: 8px 0;
+    padding: 10px 0;
+    border-radius: 10px;
+    font-size: 18px;
+}
+
+h2{
+    margin-bottom: 10px;
+}
+#registereduser{
+    padding: 0 30px;
+}
