@@ -29,3 +29,18 @@ h2{
 #registereduser{
     padding: 0 30px;
 }
+ .data{
+    border: 2px solid black;
+}
+th{
+    border: 2px solid black;
+    padding: 0 20px;
+}
+td{
+    border: 2px solid black;
+    /* padding: 0 px; */
+}
+
+input#name:invalid:focus{
+    border: 2px solid red;
+}
